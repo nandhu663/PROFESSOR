@@ -3,6 +3,7 @@ from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait,
 from pyrogram.types import Message, InlineKeyboardButton
 from pyrogram import filters, enums
 from info import AUTH_CHANNEL, LONG_IMDB_DESCRIPTION, MAX_LIST_ELM, SHORT_URL, SHORT_API, ADMINS, REQ_CHANNE
+from database.join_reqs import JoinReqs as db2
 from imdb import Cinemagoer
 from typing import Union, List
 from datetime import datetime, timedelta
