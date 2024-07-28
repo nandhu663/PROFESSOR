@@ -40,7 +40,7 @@ async def start(client, message):
             InlineKeyboardButton('⭕️𝚄𝙿𝙳𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻⭕️', url='https://t.me/tvseriezzz_updates')
             ],[
             InlineKeyboardButton("♻️ ⒼⓇⓄⓊⓅ 2 ♻️", url="https://t.me/+qhgyFPGMdgNmMjdl"),
-            InlineKeyboardButton("🔥 Dev 🔥", callback_data='source')
+            InlineKeyboardButton("🤖 Bots Updates 🤖", url="https://t.me/tvseriezzz_family")
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
@@ -64,7 +64,7 @@ async def start(client, message):
             InlineKeyboardButton('⭕️𝚄𝙿𝙳𝙰𝚃𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻⭕️', url='https://t.me/tvseriezzz_updates')
             ],[
             InlineKeyboardButton("♻️ ⒼⓇⓄⓊⓅ 2 ♻️", url="https://t.me/+qhgyFPGMdgNmMjdl"),
-            InlineKeyboardButton("🔥 Dev 🔥", callback_data='source')
+            InlineKeyboardButton("🤖 Bots Updates 🤖", url="https://t.me/tvseriezzz_family")
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
