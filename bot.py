@@ -2,8 +2,9 @@ import os, math, logging, datetime, pytz
 import logging.config
 
 from pyrogram.errors import BadRequest, Unauthorized
-from pyrogram import Client
 from pyrogram import types
+from pyrogram import idle
+from pyrogram import Client, __version__
 
 from database.ia_filterdb import Media
 from database.users_chats_db import db
